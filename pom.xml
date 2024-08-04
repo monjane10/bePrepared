@@ -92,14 +92,12 @@
 			<optional>true</optional>
 		</dependency>
 
-		
 
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-			<version>42.2.20</version>
+			<version>42.6.0</version> <!-- Verifique se esta versão é a mais recente ou adequada -->
 		</dependency>
-
 		<dependency>
 			<groupId>com.mysql</groupId>
 			<artifactId>mysql-connector-j</artifactId>
